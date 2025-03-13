@@ -7,7 +7,7 @@
 ---
 
 ```
-DEVIL TECH MD BY CYBER LOKU ASHUU 💗 
+DEVIL TECH MD POWERED BY CYBER LOKU ASHUU 💗 
 ```
 
 --- 
