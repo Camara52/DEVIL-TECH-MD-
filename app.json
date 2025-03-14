@@ -1,0 +1,21 @@
+{
+  "name": "DEVIL-TECH-MD",
+  "description": "Javascript WhatsApp bot made by Asitha",
+  "logo": "https://files.catbox.moe/ehjwzh.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
